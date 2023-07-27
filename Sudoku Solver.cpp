@@ -42,14 +42,9 @@ bool solveSudoku(vector<vector<int>>&sudoku)
 }
 int main()
 {
-    cout<<"========================================================================="<<endl;
-    cout<<"------------------------------|| MINI PROJECT ||-------------------------"<<endl;
-    cout<<"========================================================================="<<endl<<endl;
-    cout<<"                                                            ADARSH (CS_1)"<<endl;
-    cout<<"                                                       ARYAN GUPTA (CS_1)"<<endl;
-    cout<<"                                                    RISHABH SANGAL (CS_2)"<<endl<<endl;;
 
     cout<<"================================|| SUDOKU ||============================="<<endl;
+	
     while(true){
         char check;
         cout<<"DO YOU WANT TO SOLVE SUDOKU"<<endl;
